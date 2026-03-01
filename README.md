@@ -11,11 +11,14 @@ O projeto explora o uso da Inteligência Artificial como uma **ferramenta de apr
 ## 📚 1. Curadoria de Fontes Abertas
 Para garantir que a IA gere respostas precisas e fundamentadas (evitando alucinações), este caderno temático foi alimentado com um conjunto selecionado de fontes abertas e confiáveis:
 
-1. **Caderno de Educação Financeira - Gestão de Finanças Pessoais** (Banco Central do Brasil)
-2. **Guia de Educação Financeira** (Idec - Instituto Brasileiro de Defesa do Consumidor)
-3. **Como evitar compras por impulso: 8 dicas para comprar com mais consciência** (Artigo Sicredi)
-4. **A estreita ligação entre saúde financeira e saúde mental** (Artigo InfoMoney)
-5. **Aprenda como ensinar seus filhos sobre o consumo consciente** (Blog do Certus)
+Para garantir que a IA gere respostas precisas e fundamentadas (evitando alucinações), este caderno temático foi alimentado com um conjunto selecionado de fontes abertas e confiáveis. Você pode acessá-las pelos links abaixo:
+
+1. **[Caderno de Educação Financeira - Gestão de Finanças Pessoais](https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf)** (Banco Central do Brasil)
+2. **[Guia de Educação Financeira](https://www.idec.org.br/pdf/guia_educacao_financeira.pdf)** (Idec - Instituto Brasileiro de Defesa do Consumidor)
+3. **[Como evitar compras por impulso: 8 dicas para comprar com mais consciência](https://www.sicredi.com.br/site/blog/seu-dinheiro/evitar-compras-impulsivas-dicas-conscientes/)** (Artigo Sicredi)
+4. **[A estreita ligação entre saúde financeira e saúde mental](https://www.infomoney.com.br/colunistas/thiago-godoy/a-estreita-ligacao-entre-saude-financeira-e-saude-mental/)** (Artigo InfoMoney)
+5. **[Aprenda como ensinar seus filhos sobre o consumo consciente](https://certus.com.br/blog/destaque/aprenda-como-ensinar-seus-filhos-sobre-o-consumo-consciente/)** (Blog do Certus)
+6. **[Pilares do Consumo Consciente](https://www.tjsc.jus.br/web/servidor/dicas-financeiras/-/asset_publisher/tbuCpsYUrhwP/content/pilares-do-consumo-consciente)** (Tribunal de Justiça de Santa Catarina)
 
 ---
 
